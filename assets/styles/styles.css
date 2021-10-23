@@ -1,9 +1,17 @@
 
 /* body */
-body{ background-image: url(/final-project/assets/images/background.png)
+body { background-image: url(/final-project/assets/images/background.png)
+}
+/* nav bar */
+nav {
+    background-color: antiquewhite;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
 }
 /* header */
 
-/* nav bar */
+
 
 /* footer */
