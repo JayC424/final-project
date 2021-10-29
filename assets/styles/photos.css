@@ -40,6 +40,7 @@ body {
     left: 15px;
     color: white;
     font-size: 20px;
+ 
 }
 .closebtn {
     position: absolute;
@@ -48,4 +49,5 @@ body {
     color: white;
     font-size: 35px;
     cursor: pointer;
+    font-family: 'Ubuntu', sans-serif;
 }
