@@ -58,8 +58,14 @@ body{
   border-style: solid;
   box-shadow: 2px 2px 2px #abd2db inset;
   color:#beeaf5;
+  text-align: center;
   display: block;
 }
+.container{
+    text-align: center;
+    margin: 35px 0 20px 0 !important;
+}
+  
 /* footer */
 footer {
   clear: both;
